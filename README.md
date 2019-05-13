@@ -2,6 +2,7 @@
 Deep Learning Homework using Theano.
 
 [Nhóm 1] [Deep Learning] ANN dùng thư viện Theano.
+
 •	Mục tiêu bài tập: Dùng thư viện Theano kết hợp thuật toán backpropagation huấn luyện model ANN nhận dạng chữ số viết tay.
 
 •	Dữ liệu:
